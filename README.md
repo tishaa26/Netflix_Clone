@@ -1,8 +1,8 @@
 # Netflix_Clone
-#Netflix
+#NetflixMainPage
 ![image](https://github.com/tishaa26/Netflix_Clone/assets/123740968/ebd53a6a-5ef2-4e6e-b144-b5ec6e1ba240)
 #KidsProfile
-![Screenshot 2023-09-07 105535](https://github.com/tishaa26/Netflix_Clone/assets/123740968/6ef5ed5c-f05b-4ea1-b8b5-7eb741235204)
+![image](https://github.com/tishaa26/Netflix_Clone/assets/123740968/1a055583-3976-4a11-9b30-e33b7d031957)
 #NetflixOnTV
 ![image](https://github.com/tishaa26/Netflix_Clone/assets/123740968/89175ae1-3ac6-49af-8e33-7f94c73e001a)
 #WatchOffline
